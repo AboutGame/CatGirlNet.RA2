@@ -1,6 +1,6 @@
 ﻿using System.Net;
 using System.Net.Sockets;
-using CatGirlNet.RA2.Protocol.Common;
+using CatGirlNet.RA2.Core.Protocol.Common;
 
 namespace CatGirlNet.RA2.Client.Core;
 
@@ -29,7 +29,7 @@ public class GameRelay : IDisposable
     {
         try
         {
-            UdpClient.Client.IOControl(SioUdpConnReset, [0, 0, 0, 0], null);
+            UdpClient.Client.IOControl(SioUdpConnReset, "\0\0\0\0"u8.ToArray(), null);
         }
         catch (Exception ex)
         {

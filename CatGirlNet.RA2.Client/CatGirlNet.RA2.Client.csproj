@@ -8,4 +8,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\CatGirlNet.RA2.Client.Core\CatGirlNet.RA2.Client.Core.csproj" />
+    </ItemGroup>
+
 </Project>

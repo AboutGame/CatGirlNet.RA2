@@ -1,5 +1,5 @@
 ﻿using System.Collections.Concurrent;
-using CatGirlNet.RA2.Platform;
+using CatGirlNet.RA2.Core.Platform;
 
 namespace CatGirlNet.RA2.Server.Service;
 

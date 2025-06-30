@@ -1,6 +1,6 @@
 ﻿using IniParser.Model;
 
-namespace CatGirlNet.RA2.Game.Config;
+namespace CatGirlNet.RA2.Core.Game.Config;
 
 /// <summary>
 /// RA2MD.INI

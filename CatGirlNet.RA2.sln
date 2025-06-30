@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatGirlNet.RA2.Client.Core"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatGirlNet.RA2.Client.Console", "CatGirlNet.RA2.Client.Console\CatGirlNet.RA2.Client.Console.csproj", "{0A5525E8-E8F6-4C31-AC6D-AA2CF7968F3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatGirlNet.RA2", "CatGirlNet.RA2\CatGirlNet.RA2.csproj", "{BD5C5DE1-40D6-4372-91FF-4E0280D03E1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatGirlNet.RA2.Core", "CatGirlNet.RA2.Core\CatGirlNet.RA2.Core.csproj", "{BD5C5DE1-40D6-4372-91FF-4E0280D03E1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using CatGirlNet.RA2.Game.Enums;
+using CatGirlNet.RA2.Core.Game.Enums;
 
-namespace CatGirlNet.RA2.Game.Side;
+namespace CatGirlNet.RA2.Core.Game.Config.Side;
 
 public abstract class Side
 {

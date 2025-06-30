@@ -1,4 +1,4 @@
-﻿using CatGirlNet.RA2.Protocol.Common;
+﻿using CatGirlNet.RA2.Core.Protocol.Common;
 using Microsoft.AspNetCore.SignalR;
 
 namespace CatGirlNet.RA2.Server.Hubs;

@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace CatGirlNet.RA2.Game.Side;
+namespace CatGirlNet.RA2.Core.Game.Config.Side;
 
 public class RemoteSide : Side
 {

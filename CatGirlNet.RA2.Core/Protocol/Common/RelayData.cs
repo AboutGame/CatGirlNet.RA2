@@ -1,4 +1,4 @@
-﻿namespace CatGirlNet.RA2.Protocol.Common;
+﻿namespace CatGirlNet.RA2.Core.Protocol.Common;
 
 public class RelayData
 {

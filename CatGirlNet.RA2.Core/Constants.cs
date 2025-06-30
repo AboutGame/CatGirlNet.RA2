@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace CatGirlNet.RA2;
+namespace CatGirlNet.RA2.Core;
 
 public class Constants
 {

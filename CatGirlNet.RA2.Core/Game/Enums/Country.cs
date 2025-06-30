@@ -1,4 +1,4 @@
-﻿namespace CatGirlNet.RA2.Game.Enums;
+﻿namespace CatGirlNet.RA2.Core.Game.Enums;
 
 public enum Country
 {
